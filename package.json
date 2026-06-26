@@ -1,0 +1,16 @@
+{
+  "name": "grimoire-signaling-server",
+  "version": "1.0.0",
+  "description": "WebRTC signaling server for Grimoire collaborative canvas",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "y-webrtc": "^10.3.0",
+    "ws": "^8.0.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
