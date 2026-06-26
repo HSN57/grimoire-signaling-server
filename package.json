@@ -7,7 +7,6 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "y-webrtc": "^10.3.0",
     "ws": "^8.0.0"
   },
   "engines": {
